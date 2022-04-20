@@ -8,6 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
+    Sang-Geol Lee, Assistant Professor
+    Head of the CVDNN Lab.
     <p>NM903, Dongseo University,</p>
     <p>47 Jurye-ro, Sasang-gu,</p>
     <p>Busan 47011, Korea</p>
