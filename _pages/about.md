@@ -24,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
 [College of Software Convergence](https://uni.dongseo.ac.kr/software/),
 [Dongseo University](https://uni.dongseo.ac.kr/eng/), Busan, Republic of Korea
 
-E-mail : [leesg@dongseo.ac.kr](mailto://leesg@dongsea.ac.kr)
+E-mail : [leesg@dongseo.ac.kr](mailto:leesg@dongsea.ac.kr)
 Office : +82-51-320-2135
 
 He is currently an Assistant Professor in College of Software Convergence, Dongseo University, Busan, Korea. He received the B.S. degree in Computer Science and Engineering from Pusan National University, Busan, Korea, in 2003 and the M.S. degree in Computer Engineering from Pusan National University, Busan, Korea, in 2005. He received the Ph.D. degree in Electrical and Computer Engineering from Pusan National University, Busan, Korea, in 2016. His research interests include deep learning, machine learning, neural networks, computer vision and image processing.
