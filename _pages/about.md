@@ -29,6 +29,7 @@ We study a variety of deep neural network models for image data. We also study v
     </div>
 </div>
 
+<br>
 ## biography
 He is currently an Assistant Professor in College of Software Convergence, Dongseo University, Busan, Korea. He received the B.S. degree in Computer Science and Engineering from Pusan National University, Busan, Korea, in 2003 and the M.S. degree in Computer Engineering from Pusan National University, Busan, Korea, in 2005. He received the Ph.D. degree in Electrical and Computer Engineering from Pusan National University, Busan, Korea, in 2016. His research interests include deep learning, machine learning, neural networks, computer vision and image processing. He has the diverse kinds of conference service experiences.
 
