@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: underconstruction
+description: (underconstruction)
 nav: true
 display_categories: [work, fun]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
