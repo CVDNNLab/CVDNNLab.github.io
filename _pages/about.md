@@ -35,7 +35,7 @@ He is currently an Assistant Professor in College of Software Convergence, Dongs
 <div class="row align-items-end justify-content-sm-start">
     <div class="col-sm mt-3 mt-md-0" align=center>
         {% include figure.html path="assets/img/research_topic_1.png" class="img-fluid rounded z-depth-1" %}
-        Object Detection/Classification
+        Object Detection/Classification<br>
         Semantic Image Segmentation
     </div>
     <div class="col-sm mt-3 mt-md-0" align=center>
