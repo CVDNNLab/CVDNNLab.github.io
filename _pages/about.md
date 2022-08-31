@@ -19,7 +19,7 @@ We study a variety of deep neural network models for image data. We also study v
     <div class="col-sm mt-3 mt-md-0" align=right>
         <h2>Sang-Geol Lee</h2><br>
         <a href="https://uni.dongseo.ac.kr/sw/?pCode=MN1000008&mode=view&idx=1434">Assistant Professor</a>,<br>
-        <a href="https://uni.dongseo.ac.kr/software/">College of Software Convergence</a>, <a href="https://uni.dongseo.ac.kr/eng/">Dongseo University</a>,<br>
+        <a href="https://uni.dongseo.ac.kr/sw/">Department of Software</a>, <a href="https://uni.dongseo.ac.kr/eng/">Dongseo University</a>,<br>
         Busan, Republic of Korea<br><br>
         E-mail : <a href="mailto:leesg@dongsea.ac.kr">leesg@dongseo.ac.kr</a><br>
         Office : +82-51-320-2135
@@ -29,7 +29,7 @@ We study a variety of deep neural network models for image data. We also study v
     </div>
 </div>
 
-He is currently an Assistant Professor in College of Software Convergence, Dongseo University, Busan, Korea. He received the B.S. degree in Computer Science and Engineering from Pusan National University, Busan, Korea, in 2003 and the M.S. degree in Computer Engineering from Pusan National University, Busan, Korea, in 2005. He received the Ph.D. degree in Electrical and Computer Engineering from Pusan National University, Busan, Korea, in 2016. His research interests include deep learning, machine learning, neural networks, computer vision and image processing. He has the diverse kinds of conference service experiences.
+He is currently an Assistant Professor in Department of Software, Dongseo University, Busan, Korea. He received the B.S. degree in Computer Science and Engineering from Pusan National University, Busan, Korea, in 2003 and the M.S. degree in Computer Engineering from Pusan National University, Busan, Korea, in 2005. He received the Ph.D. degree in Electrical and Computer Engineering from Pusan National University, Busan, Korea, in 2016. His research interests include deep learning, machine learning, neural networks, computer vision and image processing. He has the diverse kinds of conference service experiences.
 
 ## research topics
 <div class="row align-items-end justify-content-sm-start">
